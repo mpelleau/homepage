@@ -8,7 +8,7 @@
 {% endif %}
 
 <section class="highlight">
-<img class="home" src="{{ site.url | append: "/img/" | append:site.data.personalData.home }}">
+<img class="home" src="{{ site.url | append: site.baseurl | append: "/img/" | append:site.data.personalData.home }}">
 <ul class="personal">
     <li>{{ title }}<a href="{{ site.data.personalData.univ-url }}">{{ site.data.personalData.univ }}</a></li>
     <li><a href="{{ site.data.personalData.labo-url}}">{{ site.data.personalData.labo }}</a></li>
@@ -27,10 +27,10 @@
 
 <ul class="logos">
     <li><a href="{{ site.data.personalData.univ-url }}" target="_blank">
-        <img class="logo" src="{{ site.url | append: "/img/" | append:site.data.personalData.univ-logo }}">
+        <img class="logo" src="{{ site.url | append: site.baseurl | append: "/img/" | append:site.data.personalData.univ-logo }}">
     </a></li>
     <li><a href="{{ site.data.personalData.labo-url }}" target="_blank">
-        <img class="logo" src="{{ site.url | append: "/img/" | append:site.data.personalData.labo-logo }}">
+        <img class="logo" src="{{ site.url | append: site.baseurl | append: "/img/" | append:site.data.personalData.labo-logo }}">
     </a></li>
 </ul>
 </section>

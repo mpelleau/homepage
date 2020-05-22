@@ -1,5 +1,5 @@
 
-<img class="home" src="{{ site.url | append: "/img/" | append:site.data.personalData.img }}">
+<img class="home" src="{{ site.url | append: site.baseurl | append: "/img/" | append:site.data.personalData.img }}">
 
 <ul class="personal">
     <li><cv-name>{{ site.data.personalData.name }}</cv-name></li>

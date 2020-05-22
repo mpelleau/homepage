@@ -17,16 +17,16 @@ Le prototype développé avant ce solver a fait l'objet d'une publication :
 
 Ce solveur peut résoudre des problèmes continus, des problèmes discrets mais aussi des problèmes mixtes (contenant des variables entières et réelles). L'image suivante montre les solutions obtenues pour un même problème dépendant du type des variables. Le premier disque a 2 variables réelles, le deuxième 1 variable entière et 1 variable réelle, et le dernier 2 variables entières.
 
-![absoluteb](/img/absolute_1.png)
+![absoluteb](/~mpelleau/img/absolute_1.png)
 
 
 AbSolute utilise [Apron](http://apron.cri.ensmp.fr/library/), une librairie Ocaml de domaines abstraits, on peut donc résoudre un problème utilisant des domaines abstraits autre que les intervalles. L'image suivante montre les solutions obtenues pour un problème correspondant à l'intersection de 2 disques, avec les intervalles (résolution usuelle) et avec les octogones.
 
-![absolutes](/img/absolute_2.png)
+![absolutes](/~mpelleau/img/absolute_2.png)
 
 
 Finalement, les domaines abstraits peuvent aussi correspondre à un produit de domaines abstraits. L'image suivante compare les solutions obtenues avec les intervalles à celles obtenues avec le domaine abstrait du produit des intervalles et polyèdres.
-![absolutes](/img/absolute_3.png)
+![absolutes](/~mpelleau/img/absolute_3.png)
 " | markdownify}}
 </section>
 

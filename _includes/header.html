@@ -35,10 +35,10 @@
             <div class="navbar-end">
                 {% if page.lang == "fr" %}
                 {% assign link = page.url | replace_first: "fr", "en" %}
-                <a class="navbar-item" href="{{ link }}">EN</a>
+                <a class="navbar-item" href="{{ link | prepend: site.baseurl }}">EN</a>
                 {% elsif page.lang == "en" %}
                 {% assign link = page.url | replace_first: "en", "fr" %}
-                <a class="navbar-item" href="{{ link }}">FR</a>
+                <a class="navbar-item" href="{{ link | prepend: site.baseurl }}">FR</a>
                 {% endif %}
             </div>
 
