@@ -1,9 +1,8 @@
 # Site Settings
 # title: Marie Pelleau
-description: >
-  Marie Pelleau's profesional website with informations on her research and teaching activities.
-  baseurl: "/~mpelleau"
-  url: "http://i3s.unice.fr"
+description: Marie Pelleau's profesional website with informations on her research and teaching activities.
+baseurl: "/~mpelleau"
+url: "http://i3s.unice.fr"
 #favicon: /path/to/favicon.png
 
 include: ['_pages']
