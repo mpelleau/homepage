@@ -1,6 +1,6 @@
 
 {% if page.lang == "fr" %}
-    {% assign title = site.data.personalData.titre | append: " à l'" %}
+    {% assign title = site.data.personalData.titre | append: " à " %}
     {% assign description = site.data.personalData.fr-description  %}
 {% else %}
     {% assign title = site.data.personalData.title | append: " at " %}
