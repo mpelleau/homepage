@@ -1,7 +1,7 @@
 ---
 title: Accueil
 layout: page
-permalink: /fr
+permalink: /fr/home
 lang: fr
 ---
 
