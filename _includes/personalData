@@ -1,0 +1,12 @@
+
+<img class="home" src="{{ site.url | append: "/img/" | append:site.data.personalData.img }}">
+
+<ul class="personal">
+    <li><cv-name>{{ site.data.personalData.name }}</cv-name></li>
+    <li><a href="{{ site.data.personalData.email | prepend: "mailto:"}}">{{ site.data.personalData.email_no_bot }}</a></li>
+    <ul class="social">
+        {% for entry in site.data.personalData.social %}
+        <li><a href="{{ entry.url }}" target="_blank"><i class="{{ entry.fontAwesome }}" aria-hidden="true"></i></a></li>
+        {% endfor %}
+    </ul>
+</ul>

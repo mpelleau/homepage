@@ -1,0 +1,46 @@
+
+{%- for types in site.data.publications %}
+    {% assign mode = forloop.index | modulo: 2 %}
+    {% if mode == 0 %}
+<section>
+    {% else %} 
+<section class="highlight">
+    {% endif %}
+
+    {% if page.lang == "fr" %}
+    <h1>{{ types.fr }}</h1>
+    {% else %} 
+    <h1>{{ types.en }}</h1>
+    {% endif %}
+
+    {% for year in types.years %}
+    <emph>{{ year.year }}</emph>
+    <ul>
+        {% for publi in year.publis %}
+        <li>
+            <publi-authors>{{ publi.authors }}</publi-authors>, 
+            <publi-title>{{ publi.title }}</publi-title>,
+            <publi-in>{{ publi.in }}</publi-in>,
+            {% if publi.info %}<publi-info>{{ publi.info }}</publi-info>,{% endif %}
+            {% if publi.info-fr and page.lang == "fr" %}<publi-info>{{ publi.info-fr }}</publi-info>,{% endif %}
+            {% if publi.info-en and page.lang == "en" %}<publi-info>{{ publi.info-en }}</publi-info>,{% endif %}
+            {{ year.year }}
+            {% if publi.links %}
+            <span class="biblio">
+                {% for link in publi.links %}
+                    {% if link.name %}
+                    [<a href="{{ "/ressources/" | relative_url | append: link.url }}" target="_blank">{{ link.name }}</a>]
+                    {% elsif link.name-fr and page.lang == "fr" %}
+                    [<a href="{{ "/ressources/" | relative_url | append: link.url }}" target="_blank">{{ link.name-fr }}</a>]
+                    {% elsif link.name-en and page.lang == "en" %}
+                    [<a href="{{ "/ressources/" | relative_url | append: link.url }}" target="_blank">{{ link.name-en }}</a>]
+                    {% endif %}
+                {% endfor %}
+            </span>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</section>
+{% endfor %}

@@ -1,0 +1,32 @@
+
+<ul>
+{% for entry in site.data.cv.formation %}
+    {% assign date = entry.start | date: "%b %Y" %}
+    {% if date == "Jan 1970" %}
+        {% assign date = entry.start %}
+    {% endif %}
+    {% if entry.end %}
+        {% unless entry.end == entry.start %}
+            {% assign end = entry.end | date: "%b %Y" %}
+            {% if end == "Jan 1970" %}
+                {% assign end = entry.end %}
+            {% endif %}
+            {% assign date = date | append: " - " | append: end %}
+        {% endunless %}
+    {% else %} 
+        {% if page.lang == "fr" %}
+            {% assign date = date | append: " - actuel" %}
+        {% else %}
+            {% assign date = date | append: " - today" %}
+        {% endif %}
+    {% endif %}
+    {% if page.lang == "fr" %}
+        {% assign objet = entry.titre %}
+        {% assign institution = entry.institution | prepend: "à " %}
+    {% else %}
+        {% assign objet = entry.title %}
+        {% assign institution = entry.institution | prepend: "at " %}
+    {% endif %}
+    <li><cv-date>{{ date }}</cv-date> <cv-objet>{{ objet }}</cv-objet> <cv-institution>{{ institution }}</cv-institution></li>
+{% endfor %}
+</ul>

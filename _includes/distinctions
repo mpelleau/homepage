@@ -1,0 +1,10 @@
+
+<ul>
+{% for entry in site.data.cv.distinctions %}
+    {% if page.lang == "fr" %}
+    <li><cv-title>{{ entry.title }}</cv-title> <cv-institution>{{ entry.info-fr }}</cv-institution> {{ entry.infoplus }}</li>
+    {% else %}
+    <li><cv-title>{{ entry.title }}</cv-title> <cv-institution>{{ entry.info }}</cv-institution> {{ entry.infoplus }}</li>
+    {% endif %}
+{% endfor %}
+</ul>

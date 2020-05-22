@@ -1,0 +1,36 @@
+
+{% if page.lang == "fr" %}
+    {% assign title = site.data.personalData.titre | append: " à l'" %}
+    {% assign description = site.data.personalData.fr-description  %}
+{% else %}
+    {% assign title = site.data.personalData.title | append: " at " %}
+    {% assign description = site.data.personalData.en-description  %}
+{% endif %}
+
+<section class="highlight">
+<img class="home" src="{{ site.url | append: "/img/" | append:site.data.personalData.home }}">
+<ul class="personal">
+    <li>{{ title }}<a href="{{ site.data.personalData.univ-url }}">{{ site.data.personalData.univ }}</a></li>
+    <li><a href="{{ site.data.personalData.labo-url}}">{{ site.data.personalData.labo }}</a></li>
+    <ul class="socialhome">
+        {% for entry in site.data.personalData.social %}
+        <li><a href="{{ entry.url }}" target="_blank"><i class="{{ entry.fontAwesome }}"></i></a></li>
+        {% endfor %}
+    </ul>
+    {% for entry in description %}
+    <li>{{ entry.info }}</li>
+    {% endfor %}
+</ul>
+</section>
+
+<section>
+
+<ul class="logos">
+    <li><a href="{{ site.data.personalData.univ-url }}" target="_blank">
+        <img class="logo" src="{{ site.url | append: "/img/" | append:site.data.personalData.univ-logo }}">
+    </a></li>
+    <li><a href="{{ site.data.personalData.labo-url }}" target="_blank">
+        <img class="logo" src="{{ site.url | append: "/img/" | append:site.data.personalData.labo-logo }}">
+    </a></li>
+</ul>
+</section>

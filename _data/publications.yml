@@ -1,0 +1,233 @@
+- en: Ph.D. thesis
+  fr: Thèse de doctorat
+  years: 
+    - year: 2012
+      publis:
+      - authors: Marie Pelleau
+        title: Domaines abstraits en programmation par contraintes
+        in: Thèse de l'Université de Nantes
+        info-en: defended on November 29th
+        info-fr: soutenue le 29 Novembre
+        links:
+          - name-en: Thesis
+            name-fr: Thèse
+            url: publi/PhDthesis.pdf
+          - name : Bibtex
+            url: biblio/pelleau-PhD12.bib
+- en: Book
+  fr: Ouvrage
+  years: 
+    - year: 2015
+      publis:
+      - authors: Marie Pelleau
+        title: Abstract Domains in Constraint Programming
+        in: Elsevier Science Publishers
+        links:
+          - name-en: Book
+            name-fr: Livre
+            url: publi/wiley.pdf
+          - name: Bibtex
+            url: biblio/pelleau-2015.bib
+- en: Refereed international journal
+  fr: Revue internationale avec comité de relecture
+  years: 
+    - year: 2014
+      publis:
+      - authors: Marie Pelleau, Charlotte Truchet, Frédéric Benhamou
+        title: The Octagon Abstract Domain for Continuous Constraints
+        in: Constraints, Volume 19, Issue 3
+        links:
+          - name: Article
+            url: publi/constraint-2014.pdf
+          - name: Bibtex
+            url: biblio/pelleau-Constraints14.bib
+- en: Refereed international conferences with proceedings
+  fr: Conférences internationales avec comité de relecture et actes
+  years: 
+    - year: 2018
+      publis:
+      - authors: Ghiles Ziat, Marie Pelleau, Charlotte Truchet, Antoine Miné
+        title: Finding solutions by finding inconsistencies
+        in: 24th International Conference on Principle and Practice of Constraint Programming (CP)
+        info: Lille, France
+        links:
+          - name: Article
+            url: publi/cp-2018.pdf
+          - name: Bibtex
+            url: biblio/ziat-CP18.bib
+      - authors: Jonathan Behaegel, Jean-Paul Comet, Marie Pelleau
+        title: Identification of Dynamic Parameters for Gene Networks
+        in: 30th International Conference on Tools with Artificial Intelligence (ICTAI)
+        info: Volos, Greece
+        links:
+          - name: Article
+            url: publi/
+          - name: Bibtex
+            url: biblio/behaegel-ICTAI18.bib
+    - year: 2014
+      publis:
+      - authors: Marie Pelleau, Louis-Martin Rousseau, Pierre L'Ecuyer, Walid Zegal, Louis Delorme
+        title: Scheduling agents using forecast call arrivals at Hydro-Québec's call centers
+        in: 20th International Conference on Principle and Practice of Constraint Programming (CP)
+        info: Lyon, France
+        links:
+          - name: Article
+            url: publi/ictai-2018.pdf
+          - name: Bibtex
+            url: biblio/pelleau-CP14.bib
+    - year: 2013
+      publis:
+      - authors: Marie Pelleau, Antoine Miné, Charlotte Truchet, Frédéric Benhamou
+        title: Constraint Solver based on Abstract Domains
+        in: 14th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI)
+        info: Roma, Italia
+        links:
+          - name: Article
+            url: publi/vmcai-2013.pdf
+          - name: Bibtex
+            url: biblio/pelleau-VMCAI13.bib
+    - year: 2011
+      publis:
+      - authors: Marie Pelleau, Charlotte Truchet, Frédéric Benhamou
+        title: Octagonal Domains for Continuous Constraints
+        in: 17th International Conference on Principle and Practice of Constraint Programming (CP)
+        info: Perugia, Italia
+        highlight: Best Student Paper award
+        links:
+          - name: Article
+            url: publi/cp-2011.pdf
+          - name: Bibtex
+            url: biblio/pelleau-CP11.bib
+    - year: 2010
+      publis:
+      - authors: Charlotte Truchet, Marie Pelleau, Frédéric Benhamou
+        title: Abstract domains for constraint programming, with the example of octagons
+        in: 12th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC)
+        info: Timisoara, Romania
+        links:
+          - name: Article
+            url: publi/synasc-2010.pdf
+          - name: Bibtex
+            url: biblio/truchet-SYNASC2010.bib
+- en: Refereed international workshops with proceedings
+  fr: Ateliers internationaux avec comité de relecture et actes
+  years: 
+    - year: 2019
+      publis:
+      - authors: Ghiles Ziat, Alexandre Maréchal, Marie Pelleau, Antoine Miné, Charlotte Truchet
+        title: Combination of Boxes and Polyhedra Abstractions for Constraint Solving
+        in: 8th International Workshop on Numerical and Symbolic Abstract Domains
+        info: Porto, Portugal
+        links:
+          - name: Article
+            url: 
+          - name: Bibtex
+            url: 
+    - year: 2009
+      publis:
+      - authors: Marie Pelleau, Pascal van Hentenryck, Charlotte Truchet
+        title: Sonet Network Design Problems
+        in: 6th International Workshop on Local Search Techniques in Constraint Satisfaction (LSCS)
+        info: Lisboa, Portugal
+        links:
+          - name: Article
+            url: publi/LSCS09.pdf
+          - name: Bibtex
+            url: biblio/pelleau-LSCS09.bib
+- en: Refereed national conferences with proceedings
+  fr: Conférences nationales avec comité de relecture et actes
+  years: 
+    - year: 2018
+      publis:
+      - authors: Jonathan Behaegel, Jean-Paul Comet, Marie Pelleau
+        title: Identification de paramètres dynamiques de réseaux de gènes
+        in: 14e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Amiens, France
+        links:
+          - name: Article
+            url: publi/jfpc-2018_1.pdf
+          - name: Bibtex
+            url: biblio/behaegel-JFPC18.bib
+      - authors: Remy Garcia, Claude Michel, Marie Pelleau, Michel Rueher
+        title: Vers un système de contraintes pour l'analyse des erreurs de précision des calculs sur les flottants
+        in: 14e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Amiens, France
+        links:
+          - name: Article
+            url: publi/jfpc-2018_2.pdf
+          - name: Bibtex
+            url: biblio/garcia-JFPC18.bib
+    - year: 2017
+      publis:
+      - authors: Ghiles Ziat, Marie Pelleau, Charlotte Truchet, Antoine Miné
+        title: "Améliorer la propagation : l'Importance d'être Inconsistant"
+        in: 13e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Montreuil sur Mer, France
+        links:
+          - name: Article
+            url: publi/jfpc-2017.pdf
+          - name: Bibtex
+            url: biblio/ziat-JFPC17.bib
+    - year: 2013
+      publis:
+      - authors: Marie Pelleau, Antoine Miné, Charlotte Truchet, Frédéric Benhamou
+        title: Un solveur de contraintes basé sur les domaines abstraits
+        in: 9e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Aix-en-Provence, France
+        links:
+          - name: Article
+            url: publi/jfpc-2013.pdf
+          - name: Bibtex
+            url: biblio/pelleau-JFPC13.bib
+    - year: 2011
+      publis:
+      - authors: Marie Pelleau, Charlotte Truchet, Frédéric Benhamou
+        title: "Au-delà des produits cartésiens de domaines : l'exemple des octogones"
+        in: 7e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Lyon, France
+        links:
+          - name: Article
+            url: publi/jfpc-2011.pdf
+          - name: Bibtex
+            url: biblio/pelleau-JFPC11.bib
+- en: Refereed international conferences or workshop with abstracts
+  fr: Conférences ou ateliers internationaux avec comité de relecture, sur résumé
+  years: 
+    - year: 2016
+      publis:
+      - authors: Marie Pelleau, Emmanuel Rauzy, Ghiles Ziat, Charlotte Truchet, and Antoine Miné
+        title: Mixing Polyhedra and Boxes Abstract Domain for Constraint Solving
+        in: CP meets Verification Workshop
+        info: Toulouse, France
+        links:
+          - name-en: Abstract
+            name-fr: Résumé
+            url: publi/cp_meets_verification-2016.pdf
+          - name-en: Slides
+            name-fr: Présentation
+            url: publi/slides_CPMeetsVerif2016.pdf
+    - year: 2015
+      publis:
+      - authors: Marie Pelleau, Louis-Martin Rousseau, Pierre L'Ecuyer
+        title: Simulation-based Scheduling of Agents using Historical Data in Call Centers
+        in: CORS/INFORMS 2015 Joint International Meeting
+        info: Montreal, Canada
+      - authors: Marie Pelleau, Louis-Martin Rousseau, Pierre L'Ecuyer, Walid Zegal, Louis Delorme
+        title: Scheduling agents using forecast call arrivals at Hydro-Québec's call centers
+        in: INFORMS Computing Society Conference (ICS)
+        info: Richmond, Virginia, USA
+    - year: 2012
+      publis:
+      - authors: Marie Pelleau, Charlotte Truchet, Frédéric Benhamou
+        title: Octagonal Domains for Constraint Programming
+        in: 21st International Symposium on Mathematical Programming (ISMP)
+        info: Berlin, Germany
+- en: Refereed national conferences or workshop with abstracts
+  fr: Conférences ou ateliers nationaux avec comité de relecture, sur résumé
+  years: 
+    - year: 2014
+      publis:
+      - authors: Marie Pelleau, Louis-Martin Rousseau, Pierre L'Ecuyer, Walid Zegal, Louis Delorme
+        title: Scheduling agents using forecast call arrivals at Hydro-Québec's call centers
+        in: Journées de l'Optimisations (JOpt)
+        info: Montreal, Canada

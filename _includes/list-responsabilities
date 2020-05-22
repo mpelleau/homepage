@@ -1,0 +1,26 @@
+
+{%- for types in site.data.responsabilities %}
+    {% assign mode = forloop.index | modulo: 2 %}
+    {% if mode == 0 %}
+<section>
+    {% else %} 
+<section class="highlight">
+    {% endif %}
+
+    {% if page.lang == "fr" %}
+    <h1>Responsabilités {{ types.fr }}</h1>
+    {% for resp in types.resp %}
+    <ul>
+        <li><resp-title>{{ resp.titre }}</resp-title> {{ resp.fr-info }}</li>
+    </ul>
+    {% endfor %}
+    {% else %} 
+    <h1>{{ types.en }} administration</h1>
+    {% for resp in types.resp %}
+    <ul>
+        <li><resp-title>{{ resp.title }}</resp-title> {{ resp.en-info }}</li>
+    </ul>
+    {% endfor %}
+    {% endif %}
+</section>
+{% endfor %}

@@ -1,0 +1,36 @@
+name: Marie Pelleau
+img: cv.jpg
+home: home.jpg
+titre: Maître de conférences
+title: Associate Professor
+univ: Université Côte d'Azur
+urniv-url: http://univ-cotedazur.fr/
+univ-logo: UCA.png
+labo: Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (i3s)
+labo-url: http://www.i3s.unice.fr/
+labo-logo: i3s.png
+en-description: 
+  - info: Welcome to my profesional website. You will find here informations on my research and teaching activities.
+  - info: My research interests include Constraint Programming, Abstract Interpretation and links between these two research areas.
+fr-description: 
+  - info: Bienvenue sur ma page professionnelle. Vous trouverez ici des informations sur mes activités de recherche et d'enseignement.
+  - info: Mes thématiques de recherche incluent la programmation par contraintes, l'interprétation abstraite ainsi que les liens entre ces deux domaines de recherche.
+email_no_bot: "marie[dot]pelleau[at]univ-cotedazur[dot]fr"
+email: marie.pelleau@univ-cotedazur.fr
+social:
+  - title: Email
+    fontAwesome: fas fa-at
+    url: mailto:marie.pelleau@univ-cotedazur.fr
+  - title: Github
+    fontAwesome: fab fa-github
+    url: https://github.com/mpelleau
+  - title: Twitter
+    fontAwesome: fab fa-twitter
+    url: https://twitter.com/mepelleau
+  - title: Linkedin
+    fontAwesome: fab fa-linkedin-in
+    url: https://www.linkedin.com/in/marie-pelleau-b3a98016/
+  - title: Google Scholar
+    fontAwesome: fas fa-graduation-cap
+    url: https://scholar.google.com/citations?hl=en&user=mX8YaeUAAAAJ
+    

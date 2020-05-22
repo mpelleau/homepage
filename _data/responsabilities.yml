@@ -1,0 +1,55 @@
+
+- fr: scientifiques
+  en: Scientific
+  resp:
+    - titre: Co-organisatrice
+      fr-info: du <a href="http://booleconferences.ucc.ie/cp2015dp">programme doctoral</a> de la conférence internationale International Conference on Principle and Practice of Constraint Programming (CP), 2015
+      title: Co-chair
+      en-info: for the <a href="http://booleconferences.ucc.ie/cp2015dp">doctoral program</a> of the International Conference on Principle and Practice of Constraint Programming (CP), 2015
+    - titre: Chair
+      fr-info: d’une session dans le programme doctoral de la conférence internationale CP, 2014
+      title: Chair
+      en-info: for a session in the doctoral program of the international conference CP, 2014
+    - titre: Participation à l'organisation
+      fr-info: de la conférence International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), 2012
+      title: Participation
+      en-info: in the organization for the International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), 2012
+    - titre: Comité de programme
+      fr-info: "des conférences : ICTAI 2018, CP 2018 (Test & Verification Track), IJCAI'18, SMT 2018, JFPC 2018, CP 2017 (Test & Verification Track), ICTAI 2017 (SAT/CSP Track), IJCAI'16, JFPC 2016, JFPC 2015, JFPC 2014"
+      title: Program committee member
+      en-info: "for conferences: ICTAI 2018, CP 2018 (Test & Verification Track), IJCAI'18, SMT 2018, JFPC 2018, CP 2017 (Test & Verification Track), ICTAI 2017 (SAT/CSP Track), IJCAI'16, JFPC 2016, JFPC 2015, JFPC 2014"
+    - titre: Relecture d'articles
+      fr-info: "pour les conférences : AAAI'17, CP 2016, CP 2015, JFPC 2011, JFPC 2010"
+      title: Sub-reviewer 
+      en-info: "for conferences: AAAI'17, CP 2016, CP 2015, JFPC 2011, JFPC 2010"
+- fr: collectives
+  en: Collective
+  resp: 
+    - titre: 2019 - actuel
+      fr-info: ": Chargée Médiation à l'<a href=\"http://i3s.unice.fr/\">I3S</a>"
+      title: 2019 - today
+      en-info: ": Mediation Officer at <a href=\"http://i3s.unice.fr/\">I3S</a>"
+    - titre: 2018 - actuel
+      fr-info: ": Dans le comité de pilotage et référente du département Informatique au <a href=\"http://univ-cotedazur.fr/fr/education/fablab/fr\">FabLab@UCA</a>"
+      title: 2018 - today
+      en-info: ": In the steering committee and referent for the Computer Science Departement at the <a href=\"http://univ-cotedazur.fr/fr/education/fablab/fr\">FabLab@UCA</a>"
+    - titre: 2011 - 2012
+      fr-info: ": Chargée de l’organisation des DHD (Demi-Heure du Doctorant) pour <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, l’association des doctorants d’Informatique à Nantes"
+      title: 2011 - 2012
+      en-info: ": Organization for the DHD (Demi-Heure du Doctorant, seminars for and by Ph.D students) for <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, association of Ph.D students in Computer Science in Nantes"
+    - titre: 2010 - 2012
+      fr-info: ": Suppléante du représentant des doctorants au Conseil d’Administration de l’UNAM"
+      title: 2010 - 2012
+      en-info: ": Substitute for the Ph.D students representative at the UNAM Administration Council"
+    - titre: 2010 - 2011
+      fr-info: ": Vice présidente de <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, l’association des doctorants d’Informatique à Nantes"
+      title: 2010 - 2011
+      en-info: ": Vice president of <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, association of Ph.D students in Computer Science in Nantes"
+    - titre: 2009 - 2010
+      fr-info: ": Présidente de <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, l’association des doctorants d’Informatique à Nantes"
+      title: 2009 - 2010
+      en-info: ": President of <a href=\"https://www.univ-nantes.fr/login-chercheurs-en-informatique-466282.kjsp\">Login</a>, association of Ph.D students in Computer Science in Nantes"
+    - titre: 2005 - 2006
+      fr-info: ": Membre élu à la Commission de la Vie Étudiante, Nouvelle-Calédonie"
+      title: 2005 - 2006
+      en-info: ": Elected member at the Commission de la Vie Étudiante (Council for the Student Life on the Campus), Nouvelle-Calédonie"

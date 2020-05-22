@@ -1,0 +1,111 @@
+file-en: CV-en-2017-11.pdf
+file-fr: CV-fr-2017-11.pdf
+
+formation:
+- start: October 2017
+  title: Associate Professor
+  titre: Maître de Conférences
+  institution: Université Côte d'Azur, France
+- start: 09/2016
+  end: 09/2017
+  title: Post-doctoral fellow
+  titre: Post-doctorat
+  institution: Université Pierre et Marie Curie, France
+- start: 02/2016
+  end: 08/2016
+  title: Post-doctoral fellow
+  titre: Post-doctorat
+  institution: École Normale Supérieure, France
+- start: April 2015
+  end: October 2015
+  title: Post-doctoral fellow
+  titre: Post-doctorat
+  institution: Université de Montréal, Canada
+  subject: Scheduling agents using forecast call arrivals in call centers
+- start: September 2013
+  end: January 2015
+  title: Post-doctoral fellow
+  titre: Post-doctorat
+  institution: Université de Montréal, Canada
+  subject: Scheduling agents using forecast call arrivals at Hydro-Québec's call centers
+- start: "2012"
+  end: "2013"
+  title: Temporary teaching and research assistant (ATER)
+  titre: Poste d'attaché temporaire d'enseignement et de recherche (ATER)
+  institution: Université de Nantes, France
+- start: November 2011
+  end: November 2011
+  title: One-month research stay
+  titre: Stage de recherche d’un mois
+  institution: École Normale Supérieure, France
+  info-en: Collaboration with Antoine Miné in the Abstraction team
+  info-fr: Collaboration avec Antoine Miné dans l’équipe Abstraction
+- start: "2009"
+  end: "2012"
+  title: Ph.D.
+  titre: Doctorant contractuel à activité complémentaire d’enseignement (DCACE)
+  institution: Université de Nantes, France
+  subject: Abstract Domains in Constraint Programming
+  labo: Laboratoire d'Informatique de Nantes Atlantique (LINA, UMR 6241)
+  grant: Bourse INS2I-Région Pays de la Loire
+  defended: Novembre 29, 2012
+  committee:
+    - name: Pedro Barahona
+      title: Professor
+      institution: Universidade Nova de Lisboa
+    - name: Xavier Rival
+      title: Directeur de Recherche
+      institution: INRIA - ÉNS
+    - name: Benoit Baudry
+      title: Directeur de Recherche
+      institution: INRIA - IRISA
+    - name: Frédéric Benhamou
+      title: Professor
+      institution: Université de Nantes
+    - name: Pascal van Hentenryck
+      title: Professor
+      institution: University of Melbourne
+    - name: Charlotte Truchet
+      title: Associate Professor
+      institution: Université de Nantes
+- start: "2008"
+  end: "2009"
+  title: Master in Computer Science - speciality Optimization and Operational Research
+  titre: Master 2 en Informatique - spécialité Optimisation et Recherche Opérationnelle
+  institution: Université de Nantes, France
+- start: "2007"
+  end: "2008"
+  title: Fourth year in Computer Science
+  titre: Master 1 en Informatique
+  institution: Université de Nantes, France
+- start: "2006"
+  end: "2007"
+  title: Bachelor in Computer Science
+  titre: Licence 3 en Informatique
+  institution: Université de Nantes, France
+- start: June 2006
+  end: August 2006
+  title: Three-month research stay
+  titre: Stage de recherche de trois mois
+  institution: Institut de Recherche pour le Développement (IRD), New-Caledonia
+- start: "2006"
+  end: "2006"
+  title: University Diploma in Computer Science, Object Programmation/Java
+  titre: Diplôme universitaire, Développeur Objet/Java
+  institution: Université de la Nouvelle-Calédonie, New-Caledonia
+- start: "2005"
+  end: "2005"
+  title: Second year in Computer Science
+  titre: Licence 2 en Informatique
+  institution: Université de la Nouvelle-Calédonie, New-Caledonia
+- start: "2004"
+  end: "2004"
+  title: First year in Mathematics and Computer Science
+  titre: 1ère année de DEUG en Mathématique et Informatique Appliqués aux Sciences
+  institution: Université de la Nouvelle-Calédonie, New-Caledonia
+
+distinctions:
+  - title: Best Student Paper Award
+    info: for the paper 
+    info-fr: pour l'article 
+    infoplus: Octagonal Domains for Continuous Constraint
