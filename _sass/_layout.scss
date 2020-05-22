@@ -17,3 +17,79 @@ div.highlight {
     padding: 1.5rem;
     margin-bottom: 3rem;
 }
+
+body {
+    text-align: justify;
+}
+
+.mycontainer {
+    min-height: 95vh;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 1em;
+}
+
+emph {
+    color: $primary;
+}
+
+h1 {
+    color: $primary;
+    font-size: 1.5em;
+    padding-block-start: 0.83em;
+    padding-block-end: 0.83em;
+    letter-spacing: 1px;
+}
+
+footer, .HighLight, .HighLight *, nav ul {
+    color: white;
+    background-color: $primary !important;
+}
+
+a {
+    color: $secondary;
+}
+
+footer {
+    font-size: 0.85em;
+    padding: 1em 5em !important;
+    width: 100%;
+    clear: both;
+    position: relative;
+}
+
+footer, footer * {
+    text-align: center;
+}
+
+header, header * {
+    padding: 0.25em 0em 0.25em 0em;
+    margin-top: 1.5em;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 3.5em; 
+    font-weight: lighter; 
+    letter-spacing: 1px;
+}
+
+section {
+    padding: 1.5em 5em;
+}
+
+img[alt=absoluteb] { 
+    width: 55vw; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt=absolutes] { 
+    width: 30vw; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
