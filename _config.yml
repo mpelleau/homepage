@@ -2,7 +2,7 @@
 # title: Marie Pelleau
 description: Marie Pelleau's profesional website with informations on her research and teaching activities.
 baseurl: "/~mpelleau"
-url: "http://i3s.unice.fr"
+url: "https://www.i3s.unice.fr"
 #favicon: /path/to/favicon.png
 
 include: ['_pages']
