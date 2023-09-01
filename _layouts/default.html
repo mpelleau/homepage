@@ -16,7 +16,9 @@
     {% unless page.hide_footer %}
     <div class="mycontainer">
     {% endunless %}
-    {% include header.html %}
+    {% unless page.hide_nav %}
+        {% include header.html %}
+    {% endunless %}
     {% unless page.hide_hero %}
         {% include hero.html %}
     {% endunless %}
