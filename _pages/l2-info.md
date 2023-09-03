@@ -37,6 +37,6 @@ hide_nav: true
 - Page de coordination sur [Moodle](https://lms.univ-cotedazur.fr/2023/course/view.php?id=16593)
 - Site du [département informatique](https://upinfo.univ-cotedazur.fr/)
 - Plan du [campus Valrose](https://i3s.unice.fr/~mpelleau/ressources/planValrose.pdf)
-- [Calendrier universitaire](https://i3s.unice.fr/~mpelleau/ressources/Calendrier Valrose 23-24 v1.pdf)
+- [Calendrier universitaire](https://i3s.unice.fr/~mpelleau/ressources/CalendrierValrose23-24.pdf)
 " | markdownify}}
 </section>
