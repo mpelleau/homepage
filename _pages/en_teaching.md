@@ -10,11 +10,11 @@ lang: en
 
 {{"
 # Associate professor at Université Côte d'Azur (Oct. 2017 - )
-- Structures de données (_Data Structures_) - 2nd year  students - [[website](http://i3s.unice.fr/licence-info/l2-info/structures-et-c/)]
-- Résolution de problèmes (_Combinatorial Problems Solving_) - 4th year  students - [[website](http://i3s.unice.fr/master-info/s1/resolution-problemes/)]
-- Programming Challenge - 4th year  students - [[website](http://i3s.unice.fr/master-info/s1/programming-challenge/)]
-- Vérification de programmes en PPC (_Program Verification using Constraint Programming_) - 5th year  students - [[website](http://i3s.unice.fr/master-info/s3/verification-de-programmes-en-ppc/)]
-- Bases de données (_Database_) - M1 Mathematics [[website]](https://www.i3s.unice.fr/master-info/im/bases-de-donnees/)
+- Structures de données (_Data Structures_) - 2nd year  students - [[website](http://webusers.i3s.unice.fr/licence-info/l2-info/structures-et-c/)]
+- Résolution de problèmes (_Combinatorial Problems Solving_) - 4th year  students - [[website](http://webusers.i3s.unice.fr/master-info/s1/resolution-problemes/)]
+- Programming Challenge - 4th year  students - [[website](http://webusers.i3s.unice.fr/master-info/s1/programming-challenge/)]
+- Vérification de programmes en PPC (_Program Verification using Constraint Programming_) - 5th year  students - [[website](http://webusers.i3s.unice.fr/master-info/s3/verification-de-programmes-en-ppc/)]
+- Bases de données (_Database_) - M1 Mathematics [[website]](https://www.webusers.i3s.unice.fr/master-info/im/bases-de-donnees/)
 - Informatique pour l'entreprise (_IT for business_) - M1 Mathematics
 " | markdownify}}
 </section>

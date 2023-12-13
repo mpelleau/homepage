@@ -15,7 +15,7 @@ hide_nav: true
 {{"
 # Dates importantes
 
-- Réunion de pré-rentrée **mardi 5 septembre** de **15h30 à 17h30** en amphi Biologie [[Présentation]](https://i3s.unice.fr/~mpelleau/ressources/reunion_rentree_2023.pdf)
+- Réunion de pré-rentrée **mardi 5 septembre** de **15h30 à 17h30** en amphi Biologie [[Présentation]](https://webusers.i3s.unice.fr/~mpelleau/ressources/reunion_rentree_2023.pdf)
 - Début des cours magistraux (CM) : lundi 11 septembre
 - Début des travaux dirigés (TD) et des travaux pratiques (TP) : lundi 18 septembre
 " | markdownify}}
@@ -36,7 +36,7 @@ hide_nav: true
 
 - Page de coordination sur [Moodle](https://lms.univ-cotedazur.fr/2023/course/view.php?id=16593)
 - Site du [département informatique](https://upinfo.univ-cotedazur.fr/)
-- Plan du [campus Valrose](https://i3s.unice.fr/~mpelleau/ressources/planValrose.pdf)
-- [Calendrier universitaire](https://i3s.unice.fr/~mpelleau/ressources/CalendrierValrose23-24.pdf)
+- Plan du [campus Valrose](https://webusers.i3s.unice.fr/~mpelleau/ressources/planValrose.pdf)
+- [Calendrier universitaire](https://webusers.i3s.unice.fr/~mpelleau/ressources/CalendrierValrose23-24.pdf)
 " | markdownify}}
 </section>
