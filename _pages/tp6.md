@@ -1,5 +1,5 @@
 ---
-title: Base de données
+title: Base de données -- TP noté
 layout: page
 permalink: /bdim/tp6-2023/
 lang: fr
