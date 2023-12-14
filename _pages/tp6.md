@@ -1,7 +1,7 @@
 ---
 title: Base de données
 layout: page
-permalink: /bdim/tp6-2023
+permalink: /bdim/tp6-2023/
 lang: fr
 hide_nav: true
 ---
@@ -14,4 +14,3 @@ hide_nav: true
   <script src="{{ site.url }}{{ site.baseurl }}/assets/im/tp6.js"></script>
 
 </section>
-
