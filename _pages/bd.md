@@ -30,7 +30,7 @@ hide_nav: true
 
 - [wta2021.db](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/wta_2021.db)
 - [prenoms.zip](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/prenoms.zip)
-- [commune.db](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/commune.db)
+- [communes.db](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/communes.db)
 - [projets.sql](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/projets.sql)
 - [biblio.db](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/biblio.db)
 - [lego.zip](https://webusers.i3s.unice.fr/~mpelleau/ressources/bd/lego.zip)
