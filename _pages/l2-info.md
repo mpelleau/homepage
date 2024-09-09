@@ -15,7 +15,7 @@ hide_nav: true
 {{"
 # Dates importantes
 
-- Réunion de pré-rentrée **vendredi 6 septembre** de **15h30 à 17h30** en amphi Biologie <!-- [[Présentation]](https://webusers.i3s.unice.fr/~mpelleau/ressources/reunion_rentree_2024.pdf) -->
+- Réunion de pré-rentrée **vendredi 6 septembre** de **15h30 à 17h30** en amphi Biologie [[Présentation]](https://webusers.i3s.unice.fr/~mpelleau/ressources/reunion_rentree_2024.pdf)
 - Début des cours magistraux (CM) : lundi 9 septembre
 - Début des travaux dirigés (TD) et des travaux pratiques (TP) : lundi 16 septembre
 " | markdownify}}
