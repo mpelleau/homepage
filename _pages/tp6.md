@@ -1,7 +1,7 @@
 ---
 title: Base de données -- TP noté
 layout: page
-permalink: /bdim/tp6-2023/
+permalink: /bd/tp6-2025/
 lang: fr
 hide_nav: true
 ---
@@ -11,6 +11,6 @@ hide_nav: true
     Fichier non trouvé, êtes-vous bien passé par le lien Moodle ?
   </div>
 
-  <script src="{{ site.url }}{{ site.baseurl }}/assets/im/tp6.js"></script>
+  <script src="{{ site.url }}{{ site.baseurl }}/assets/eade/tp6.js"></script>
 
 </section>
