@@ -44,6 +44,32 @@
 - en: Refereed international conferences with proceedings
   fr: Conférences internationales avec comité de relecture et actes
   years: 
+    - year: 2025
+      publis:
+      - authors: Arnaud Malapert, Marie Pelleau, Margaux Schmied, Davide Fissore
+        title: Cryptarithmetic Playtime
+        in: 37th International Conference on Tools with Artificial Intelligence (ICTAI)
+        info: Athènes, Grèce
+      - authors: Marie Pelleau, Laurent Simon, Jean-Charles Régin
+        title: Enumerating Cliques of Hypergraphs
+        in: 37th International Conference on Tools with Artificial Intelligence (ICTAI)
+        info: Athènes, Grèce
+    - year: 2023
+      publis:
+      - authors: Steve Malalel, Arnaud Malapert, Marie Pelleau, Jean-Charles Régin
+        title: MDD archive for boosting the pareto constraint
+        in: 29th International Conference on Principles and Practice of Constraint Programming, (CP)
+        info: Toronto, Canada
+      - authors: Guillaume Perez, Steve Malalel, Gael Glorian, Victor Jung, Alexandre Papadopoulos, Marie Pelleau, Wijnand Suijlen, Jean-Charles Régin, Arnaud Lallouet
+        title: Generalized confidence constraints
+        in: 37th International Conference on Artificial Intelligence (AAAI)
+        info: Washington, USA
+    - year: 2022
+      publis:
+      - authors: Steve Malalel, Victor Jung, Jean-Charles Régin, Marie Pelleau
+        title: Dealing with the product constraint
+        in: 19th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)
+        info: Los Angeles, USA
     - year: 2018
       publis:
       - authors: Ghiles Ziat, Marie Pelleau, Charlotte Truchet, Antoine Miné
@@ -137,6 +163,22 @@
 - en: Refereed national conferences with proceedings
   fr: Conférences nationales avec comité de relecture et actes
   years: 
+    - year: 2023
+      publis:
+      - authors: Arnaud Malapert, Margaux Schmied, Davide Fissore, Marie Pelleau, Ambre Picard Marchetto
+        title: Jouer avec des Cryptarithmes en Programmation par Contraintes
+        in: 18e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Strasbourg, France
+    - year: 2022
+      publis:
+      - authors: Steve Malalel, Victor Jung, Jean-Charles Régin, Marie Pelleau
+        title: Étude de la contrainte de produit
+        in: 17e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Saint-Étienne, France
+      - authors: Florian Régin, Elisabetta De Maria, Marie Pelleau
+        title: Résolution de problèmes dynamiques à l'aide du Model Checking
+        in: 17e Journées Francophones de Programmation par Contraintes (JFPC)
+        info: Saint-Étienne, France
     - year: 2018
       publis:
       - authors: Jonathan Behaegel, Jean-Paul Comet, Marie Pelleau

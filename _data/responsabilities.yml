@@ -25,6 +25,18 @@
 - fr: collectives
   en: Collective
   resp: 
+    - titre: 2025 - actuel
+      fr-info: ": Responsable de la création de ressources scientifiques et pédagogiques dans <a href=\"https://terra-numerica.org/\">Terra Numerica</a>"
+      title: 2025 - today
+      en-info: ": Director for the creation of scientific and educational resources at <a href=\"https://terra-numerica.org/\">Terra Numerica</a>"
+    - titre: 2023 - 2025
+      fr-info: ": Coordinatrice de la L2 Informatique
+      title: 2023 - 2025
+      en-info: ": Coordinator of the second-year Computer Science program
+    - titre: 2021 - actuel
+      fr-info: ": Membre de <a href=\"https://terra-numerica.org/\">Terra Numerica</a>"
+      title: 2021 - today
+      en-info: ": Member of <a href=\"https://terra-numerica.org/\">Terra Numerica</a>"
     - titre: 2019 - actuel
       fr-info: ": Chargée Médiation à l'<a href=\"http://i3s.unice.fr/\">i3s</a>"
       title: 2019 - today

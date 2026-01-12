@@ -1,5 +1,5 @@
-file-en: CV-en-2020-01.pdf
-file-fr: CV-fr-2020-01.pdf
+file-en: CV-en-2026-01.pdf
+file-fr: CV-fr-2026-01.pdf
 
 formation:
 - start: October 2017
@@ -105,6 +105,11 @@ formation:
   institution: Université de la Nouvelle-Calédonie, New-Caledonia
 
 distinctions:
+  - title: Best Paper Award
+    info: for the paper 
+    info-fr: pour l'article 
+    infoplus: Cryptarithmetic Playtime
+
   - title: Best Student Paper Award
     info: for the paper 
     info-fr: pour l'article 
