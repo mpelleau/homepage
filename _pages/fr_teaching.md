@@ -10,12 +10,13 @@ lang: fr
 
 {{"
 # Poste à l'Université Côte d'Azur (Oct. 2017 - )
-- Structures de données - L2 - [[site](http://webusers.i3s.unice.fr/licence-info/l2-info/structures-et-c/)]
-- Résolution de problèmes - M1 - [[site](http://webusers.i3s.unice.fr/master-info/s1/resolution-problemes/)]
-- Programming Challenge - M1 - [[site](http://webusers.i3s.unice.fr/master-info/s1/programming-challenge/)]
-- Vérification de programmes en PPC - M2 - [[site](http://webusers.i3s.unice.fr/master-info/s3/verification-de-programmes-en-ppc/)]
-- Bases de données - M1 Mathématiques - [[site]](https://www.webusers.i3s.unice.fr/master-info/im/bases-de-donnees/)
-- Informatique pour l'entreprise - M1 Mathématiques
+- Résolution de problèmes - M1 - [[site](https://upinfo.univ-cotedazur.fr/s1/problem-solving/)]
+- Programming Challenge - M1 - [[site](https://upinfo.univ-cotedazur.fr/s1/programming-challenge/)]
+- Vérification de programmes en PPC - M2 - [[site](https://upinfo.univ-cotedazur.fr/s3/verification-de-programmes-en-ppc/)]
+- Bases de données - M1 Mathématiques - [[site]](https://upinfo.univ-cotedazur.fr/im/bases-de-donnees/)
+- Informatique pour l'entreprise - M1 Mathématiques - [[site]](https://upinfo.univ-cotedazur.fr/im/info-ple/)
+- Structures de données - L2 - [[site](https://upinfo.univ-cotedazur.fr/l2-info/structures-et-c/)]
+- Algorithmique 1 - L2 - [[site]](https://upinfo.univ-cotedazur.fr/l2-info/algorithmique1/)
 " | markdownify}}
 </section>
 
